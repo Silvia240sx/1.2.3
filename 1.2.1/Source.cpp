@@ -7,6 +7,6 @@ int main()
 	cout << "Это моя первая С++ программа."; 
 	system("pause");
 	return 0;
-	// po6
+	// p5464646464
 }
 
